@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1751304133359",
+    "name": "guerschom",
+    "username": "king",
+    "password": "lololo",
+    "role": "student",
+    "faculty": "INFORMATIQUE"
+  },
+  {
+    "id": "1751304749623",
+    "name": "jonas",
+    "username": "jonas",
+    "password": "lololo",
+    "role": "student",
+    "faculty": "INFORMATIQUE"
+  },
+  {
+    "id": "1751310118151",
+    "name": "paty",
+    "username": "okok",
+    "password": "kokoko",
+    "role": "student",
+    "faculty": "INFORMATIQUE"
+  },
+  {
+    "id": "1751317902279",
+    "name": "guerschom",
+    "password": "ESCATHABOY",
+    "role": "student",
+    "faculty": "informatique "
+  },
+  {
+    "id": "1751319882926",
+    "name": "maman",
+    "matricule": "papa",
+    "password": "naza",
+    "role": "student",
+    "faculty": "informatique-"
+  },
+  {
+    "id": "1751320033531",
+    "name": "kevine",
+    "matricule": "mamy",
+    "password": "0987654321",
+    "role": "teacher",
+    "faculty": "polytechnique"
+  },
+  {
+    "id": "1751328793709",
+    "name": "guerschom",
+    "matricule": "plplpl",
+    "password": "1234",
+    "role": "teacher",
+    "faculty": "informatique-"
+  },
+  {
+    "id": "1751328888270",
+    "name": "bobo",
+    "matricule": "pp",
+    "password": "lolo",
+    "role": "teacher",
+    "faculty": "informatique-"
+  },
+  {
+    "id": "1751332987692",
+    "name": "PIPI",
+    "matricule": "MAYANGO",
+    "password": "SOMBE",
+    "role": "teacher",
+    "faculty": "polytechnique"
+  },
+  {
+    "id": "1751333075561",
+    "name": "TOTO",
+    "matricule": "TITI",
+    "password": "POOL",
+    "role": "admin",
+    "faculty": "medecine"
+  },
+  {
+    "id": "1751333156064",
+    "name": "MBIKAYI",
+    "matricule": "FIDE",
+    "password": "PLPL",
+    "role": "student",
+    "faculty": "informatique-"
+  }
+]
