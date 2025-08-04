@@ -1,4 +1,5 @@
 // backend/server.js
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 require('./database'); // Assurez-vous que ce fichier configure et exporte votre connexion BDD
