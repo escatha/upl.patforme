@@ -4,6 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+     "build": "react-scripts build",
     "postinstall": "npm rebuild sqlite3 --build-from-source"
   },
   "dependencies": {
